@@ -1,0 +1,36 @@
+.slid{
+    width: 370px;
+    overflow: hidden;
+    display: flex;
+    height: auto;
+    overflow: hidden;
+}
+.slid .imgps{
+    margin-left: 0px;
+    margin-right: 5px;
+    width: 120px;
+    height: 120px;
+}
+
+#um{
+    position: relative;
+    width: 64px;
+    height: 64px;
+    background: none;
+    border: none;
+    outline: none;
+}
+#outro{
+    position: relative;
+    height: 64px;
+    background: none;
+    border: none;
+    outline: none;
+}
+
+.contento {
+    display: flex;
+    width: 500px;
+    margin: auto;
+    align-items: center;
+}
